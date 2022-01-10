@@ -35,25 +35,5 @@ The ManagedAppPolicy resource represents a base type for platform specific polic
 ## Relationships
 None
 
-## JSON Representation
-Here is a JSON representation of the resource.
-<!-- {
-  "blockType": "resource",
-  "keyProperty": "id",
-  "@odata.type": "microsoft.graph.managedAppPolicy"
-}
--->
-``` json
-{
-  "@odata.type": "#microsoft.graph.managedAppPolicy",
-  "displayName": "String",
-  "description": "String",
-  "createdDateTime": "String (timestamp)",
-  "lastModifiedDateTime": "String (timestamp)",
-  "id": "String (identifier)",
-  "version": "String"
-}
-```
-
 
 
